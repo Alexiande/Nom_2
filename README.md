@@ -1,4 +1,6 @@
 # Nom_2
-Dog-Main \n
+Dog-Main
+
 Ball-Main(1)
+
 Book-Main(3)
